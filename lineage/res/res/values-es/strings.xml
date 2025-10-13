@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      SPDX-FileCopyrightText: 2015 The CyanogenMod Project
-     SPDX-FileCopyrightText: 2017-2023 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -9,11 +9,11 @@
     <string name="permlab_modifyProfiles">modificar los perfiles del sistema</string>
     <string name="permdesc_modifyProfiles">Permite que una aplicación modifique los perfiles del sistema.</string>
     <string name="permlab_useHardwareFramework">usar estructura de hardware</string>
-    <string name="permdesc_useHardwareFramework">Permite el acceso de una aplicación a la estructura de hardware de Lineage.</string>
-    <string name="permlab_writeSettings">modificar ajustes del sistema de Lineage</string>
-    <string name="permdesc_writeSettings">Permite que una aplicación modifique los ajustes del sistema de Lineage.</string>
-    <string name="permlab_writeSecureSettings">modificar ajustes del sistema de seguridad de Lineage</string>
-    <string name="permdesc_writeSecureSettings">Permitir a una aplicación modificar la configuración segura del sistema Lineage. No apto para aplicaciones normales.</string>
+    <string name="permdesc_useHardwareFramework">Permite el acceso de una aplicación a la estructura de hardware de WitAqua.</string>
+    <string name="permlab_writeSettings">modificar ajustes del sistema de WitAqua</string>
+    <string name="permdesc_writeSettings">Permite que una aplicación modifique los ajustes del sistema de WitAqua.</string>
+    <string name="permlab_writeSecureSettings">modificar ajustes del sistema de seguridad de WitAqua</string>
+    <string name="permdesc_writeSecureSettings">Permitir a una aplicación modificar la configuración segura del sistema WitAqua. No apto para aplicaciones normales.</string>
     <string name="profileNameDefault">Por defecto</string>
     <string name="profileNameWork">Trabajo</string>
     <string name="profileNameHome">Inicio</string>
@@ -26,6 +26,10 @@
     <string name="profileGroupEmail">Correo electrónico</string>
     <string name="profileGroupSMS">SMS</string>
     <string name="wildcardProfile">Otro</string>
+    <string name="charging_speed">Velocidad de carga</string>
+    <string name="charging_speed_slow">Lenta</string>
+    <string name="charging_speed_fast">Rápida </string>
+    <string name="charging_speed_super_fast">Superrápida</string>
     <string name="live_display_auto">Automático</string>
     <string name="live_display_auto_summary">Ajustar automáticamente la temperatura del color de pantalla con el amanecer y el anochecer</string>
     <string name="live_display_off">Apagar</string>
