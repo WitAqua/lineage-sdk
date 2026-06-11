@@ -49,7 +49,7 @@
     <string name="build_date">Дата збірки</string>
     <string name="lineage_api_level">Рівень API LineageOS</string>
     <string name="lineage_updates">Оновлення LineageOS</string>
-    <string name="lineage_version">Версія LineageOS</string>
+    <string name="lineage_version">Версія WitAqua</string>
     <string name="lineage_vendor_security_patch">Рівень виправлень системи безпеки від виробника</string>
     <string name="unknown">Невідомо</string>
     <string name="kilobitspersecond_short">кбіт/с</string>

@@ -53,7 +53,7 @@
     <string name="permdesc_manageRemotePrefs">Tillader en app at håndtere fjernbetjeningsindstillinger</string>
     <string name="lineage_api_level">LineageOS API-niveau</string>
     <string name="lineage_updates">LineageOS-opdateringer</string>
-    <string name="lineage_version">LineageOS-version</string>
+    <string name="lineage_version">WitAqua-version</string>
     <string name="lineage_vendor_security_patch">Producent-sikkerhedsrettelsesniveau</string>
     <string name="unknown">Ukendt</string>
     <string name="app_killed_message">Program stoppet</string>
