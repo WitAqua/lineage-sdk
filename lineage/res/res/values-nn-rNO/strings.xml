@@ -58,7 +58,7 @@
     <string name="build_date">Byggjedato</string>
     <string name="lineage_api_level">LineageOS API-nivå</string>
     <string name="lineage_updates">LineageOS-oppdateringar</string>
-    <string name="lineage_version">LineageOS-versjon</string>
+    <string name="lineage_version">WitAqua-versjon</string>
     <string name="lineage_vendor_security_patch">Tryggleiksoppdatering frå leverandøren</string>
     <string name="unknown">Ukjend</string>
     <string name="app_killed_message">Programmet vart avslutta</string>
