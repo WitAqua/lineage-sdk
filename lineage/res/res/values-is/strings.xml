@@ -54,7 +54,7 @@
     <string name="build_date">Byggingardagsetning</string>
     <string name="lineage_api_level">LineageOS API-stig</string>
     <string name="lineage_updates">LineageOS uppfærslur</string>
-    <string name="lineage_version">LineageOS útgáfa</string>
+    <string name="lineage_version">WitAqua útgáfa</string>
     <string name="lineage_vendor_security_patch">Stig öryggisviðbóta framleiðanda</string>
     <string name="unknown">Óþekkt</string>
     <string name="app_killed_message">Forrit drepið</string>
